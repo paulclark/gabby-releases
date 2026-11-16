@@ -4,6 +4,14 @@
     <title>Gabby</title>
     <!-- releases -->
     <item>
+      <title>Gabby 0.2.3</title>
+      <pubDate>Mon, 16 Nov 2026 23:51:54 +0000</pubDate>
+      <sparkle:version>0.2.3</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/paulclark/gabby-releases/releases/download/v0.2.3/Gabby-0.2.3.zip" type="application/octet-stream" sparkle:edSignature="pSjncdXCLuKYbLnYmoJcWJZCAh8aLPbfU76qk7ZhOFEMgtaB6rf2Esgoo5Pd5D7EH6LWT7s98HDan81B4u+AAw==" length="6437860"/>
+    </item>
+    <item>
       <title>Gabby 0.2.2</title>
       <pubDate>Mon, 16 Nov 2026 22:11:32 +0000</pubDate>
       <sparkle:version>0.2.2</sparkle:version>
